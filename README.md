@@ -25,7 +25,7 @@ Herdr has no built-in "move tab to workspace", and recreating a tab by replaying
 ## Install
 
 ```bash
-herdr plugin install AVGVSTVS96/herdr-drovr
+herdr plugin install noartem/herdr-drovr
 ```
 
 Herdr keybindings live in your config, not the plugin manifest, so add these to `~/.config/herdr/config.toml`:
